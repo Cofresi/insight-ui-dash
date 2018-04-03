@@ -9,7 +9,7 @@ angular.module('insight',[
   'ngRoute',
   'ngProgress',
   'ui.bootstrap',
-  'ui.route',
+  'ui.router',
   'monospaced.qrcode',
   'gettext',
   'angularMoment',
