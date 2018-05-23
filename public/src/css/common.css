@@ -407,7 +407,11 @@ margin-left: 0;
   color: #fffffe;
 }
 
-#footer a.insight small { font-size: 11px; }
+#footer a.insight small { 
+  font-size: 11px; 
+  margin-right: 2px;
+}
+
 .line-footer { border-top: 2px dashed #ccc; }
 
 #footer .links {
