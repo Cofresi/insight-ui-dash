@@ -40,6 +40,7 @@
     "dashcore"
   ],
   "dashcoreNode": "dashcore-node",
+  "main": "dashcore-node",
   "scripts": {
     "build": "bower install && grunt compile",
     "watch": "grunt",
